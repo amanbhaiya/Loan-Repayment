@@ -49,8 +49,7 @@ This Spring Boot project calculates the repayment schedule for a loan based on g
         "dueInterest": 83.33,
         "emi": 1041.67,
         "outstandingLoanAmountOnEndDay": 9000.0
-    },
-    ...
+    }
 ]
 ```
 
