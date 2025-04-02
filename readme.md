@@ -11,8 +11,8 @@ This Spring Boot project calculates the repayment schedule for a loan based on g
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo/loan-repayment-api.git
-   cd loan-repayment-api
+   git clone https://github.com/amanbhaiya/Loan-Repayment.git
+   cd Loan-Repayment
    ```
 2. Build the project using Maven:
    ```sh
@@ -62,6 +62,3 @@ This Spring Boot project calculates the repayment schedule for a loan based on g
 ## Notes
 - Uses simple interest calculation.
 - Dates are formatted as `dd-MM-yyyy`.
-
-## License
-MIT License.
